@@ -160,10 +160,11 @@
                                                     </li>
                                                     <li>
                                                         <h3>Mail</h3>
-                                                        <span><a href="mailto:olusesia@gmail.com" class="__cf_email__" data-cfemail="523a373e3e3d12383721213b31337c313d3f">olusesia@gmail.com</a></span>
+                                                        <span><a href="mailto:olusesia@gmail.com" class="__cf_email__" style="color:white; text-decoration:none;" data-cfemail="523a373e3e3d12383721213b31337c313d3f">olusesia@gmail.com</a></span>
                                                     </li>
                                                     <li>
                                                         <h3>Phone</h3>
+                                                        <span>+234 906 193 7121</span>
                                                         <span>+234 807 457 4512</span>
                                                     </li>
                                                     <li>
@@ -187,7 +188,7 @@
                                             <p>A passionate Web Developer</p>
                                         </div>
                                         <div class="text">
-                                            <p>Hi! My name is Olusesi Ahmed. I am a web developer, and I'm very passionate and dedicated to my work. With 11 years experience as a professional web developer, I have acquired the skills and knowledge necessary to make your project a success.</p>
+                                            <p>My name Olusesi Ahmed Oladipupo. I am a web developer, and I'm very passionate and dedicated to my work. With my 11 years experience as a developer, I have acquired the skills and knowledge necessary to make your project a success. I have created projects that are unique, problem solving and are sellable. If it does not scare me, it does not impress me.</p>
                                         </div>
                                         <div class="iknow_tm_button">
                                             <a href="storage/CV-Olusesi-Ahmed.pdf" download>Download CV</a>
@@ -281,7 +282,7 @@
                                                 <div class="personal">
                                                     <div class="dodo_progress">
                                                         <div class="progress_inner" data-value="75">
-                                                            <span><span class="label">Time Management</span><span class="number">75%</span></span>
+                                                            <span><span class="label">Time Management</span><span class="number">80%</span></span>
                                                             <div class="background">
                                                                 <div class="bar">
                                                                     <div class="bar_in"></div>
@@ -363,7 +364,7 @@
 
                                                             <li>
                                                                 <div class="list_inner">
-                                                                    <div class="myCircle" data-value="0.60"></div>
+                                                                    <div class="myCircle" data-value="0.70"></div>
                                                                     <div class="title">
                                                                         <h3>Javascript</h3>
                                                                     </div>
@@ -480,7 +481,7 @@
                                                     <a class="iknow_tm_full_link popup-vimeo" href="img/portfolio/3.jpg"></a>
                                                 </div>
                                                 <div class="iknow_tm_main_title_links">
-                                                    <a href="ecommerce1.infinityfreeapp.com/ecommerce1" target="_blank"><span>Visit Link</span></a>
+                                                    <a href="https://basicecommerce.herokuapp.com/" target="_blank"><span>Visit Link</span></a>
                                                 </div>
                                             </li>
 
@@ -500,7 +501,7 @@
                                                     <a class="iknow_tm_full_link popup-vimeo" href="img/portfolio/4.jpg"></a>
                                                 </div>
                                                 <div class="iknow_tm_main_title_links">
-                                                    <a href="ecommerce2.infinityfreeapp.com/ecommerce2" target="_blank"><span>Visit Link</span></a>
+                                                    <a href="#" target="_blank"><span>Visit Link</span></a>
                                                 </div>
                                             </li>
 
@@ -576,7 +577,7 @@
                                                     <a class="iknow_tm_full_link popup-vimeo" href="img/portfolio/8.jpg"></a>
                                                 </div>
                                                 <div class="iknow_tm_main_title_links">
-                                                    <a href="https://tracybridals.com.ng" target="_blank"><span>Visit Link</span></a>
+                                                    <a href="#" target="_blank"><span>Visit Link</span></a>
                                                 </div>
                                             </li>
 
@@ -590,12 +591,12 @@
                                                     <img class="svg" src="img/svg/text.svg" alt="School Portal Website" />
                                                     <div class="details">
                                                         <span></span>
-                                                        <h3>School Portal Website</h3>
+                                                        <h3>A Combined Primary and Secondary School Portal</h3>
                                                     </div>
                                                     <a class="iknow_tm_full_link popup-vimeo" href="img/portfolio/9.jpg"></a>
                                                 </div>
                                                 <div class="iknow_tm_main_title_links">
-                                                    <a href="https://test.trustworldhub.com.ng/" target="_blank"><span>Visit Link</span></a>
+                                                    <a href="http://myschoolportals.herokuapp.com/" target="_blank"><span>Visit Link</span></a>
                                                 </div>
                                             </li>
 
@@ -614,7 +615,7 @@
                                                     <a class="iknow_tm_full_link popup-vimeo" href="img/portfolio/10.jpg"></a>
                                                 </div>
                                                 <div class="iknow_tm_main_title_links">
-                                                    <a href="classifiedads.infinityfreeapp.com/classifiedads" target="_blank"><span>Visit Link</span></a>
+                                                    <a href="http://classified-advert.herokuapp.com/" target="_blank"><span>Visit Link</span></a>
                                                 </div>
                                             </li>
 
@@ -633,7 +634,7 @@
                                                     <a class="iknow_tm_full_link popup-vimeo" href="img/portfolio/11.jpg"></a>
                                                 </div>
                                                 <div class="iknow_tm_main_title_links">
-                                                    <a href="online-course.infinityfreeapp.com/online-course" target="_blank"><span>Visit Link</span></a>
+                                                    <a href="https://my-online-course.herokuapp.com/" target="_blank"><span>Visit Link</span></a>
                                                 </div>
                                             </li>
 
@@ -710,7 +711,7 @@
                                                     <a class="iknow_tm_full_link popup-vimeo" href=""></a>
                                                 </div>
                                                 <div class="iknow_tm_main_title_links">
-                                                    <a href="http://myportfolio10-env.eba-dnsnixcj.us-east-1.elasticbeanstalk.com/" target="_blank"><span>Visit Link</span></a>
+                                                    <a href="https://olusesiahmed-portfolio.herokuapp.com/" target="_blank"><span>Visit Link</span></a>
                                                 </div>
                                             </li>
 
@@ -794,6 +795,7 @@
                                                         <span class="icon"><img class="svg" src="img/svg/smartphone.svg" alt="" /></span>
                                                         <div class="short">
                                                             <h3>Call Me</h3>
+                                                            <span>+234 906 193 7121</span>
                                                             <span>+234 807 457 4512</span>
                                                         </div>
                                                     </div>
@@ -803,7 +805,7 @@
                                                         <span class="icon"><img class="svg" src="img/svg/letter.svg" alt="" /></span>
                                                         <div class="short">
                                                             <h3>Email me</h3>
-                                                            <span><a href="mailto:olusesia@gmail.com"><span class="__cf_email__" data-cfemail="6d05080101022d040603021a430e0200">olusesia@gmail.com</span></a></span>
+                                                            <span><a href="mailto:olusesia@gmail.com" ><span class="__cf_email__" data-cfemail="6d05080101022d040603021a430e0200">olusesia@gmail.com</span></a></span>
                                                         </div>
                                                     </div>
                                                 </li>
@@ -845,7 +847,7 @@
                             var date = new Date()
                             document.write(date.getFullYear());
                         </script>
-                        All right reserved - Olusesi Ahmed.
+                        All right reserved - Olusesi Ahmed Oladipupo.
                     </p>
 
                 </div>
